@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AdinotAadi
+- 👋 Hi, I’m Aditya!
 - 👀 I’m interested in computers and programming.
 - 🌱 I’m currently learning python and c.
 - 📫 Find me on twitter, @AdinotAadi and Instagram, @adi.notaadi

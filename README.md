@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aditya!
 - 👀 I’m interested in computers and programming.
-- 🌱 I’m currently learning python and c.
+- 🌱 I’m currently learning python, c++ and java.
 - 📫 Find me on twitter, @AdinotAadi and Instagram, @adi.notaadi
 
 <!---

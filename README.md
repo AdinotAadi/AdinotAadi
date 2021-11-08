@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Aditya!
 - 👀 I’m interested in computers and programming.
 - 🌱 I’m currently learning python, c/c++, java and web development.
-- 📫 Find me on twitter, @AdinotAadi and Instagram, @adi.notaadi
 
 <!---
 AdinotAadi/AdinotAadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
